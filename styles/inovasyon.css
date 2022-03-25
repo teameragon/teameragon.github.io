@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+/* primary header */
+
+:root {
+    --black: #222831;
+    --grey: #393E46;
+    --blue: #00ADB5;
+    --moreblue: #00888f;
+    --white: #EEEEEE;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    line-height: 1.5;
+    min-height: 100vh;
+    
+    display: grid;
+    grid-template-rows: min-content 1fr;
+    align-items: start;
+    
+    overflow-x: hidden;
+}
+
+/* inovasyon */
+
+.inovasyon {
+    background-image: url(../images/ekip_fotografi.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--black);
+    background-blend-mode: overlay;
+}
+
+.grid-container {
+    text-align: center;
+    display: grid;
+    place-items: center;
+    justify-items: baseline;
+    padding-inline: 1rem;
+}
+
+@media (min-width: 1000px) {
+    .grid-container {
+        text-align: left;
+        column-gap: var(--container-gap, 2rem);
+        grid-template-columns: minmax(1rem, 1fr) minmax(0, 60rem) minmax(1rem, 1fr);
+    }
+    
+    .grid-container > *:first-child {
+        grid-column: 2;
+    }
+
+    .grid-container > *:last-child {
+        grid-column: 3;
+    }
+    
+    .grid-container--inovasyon {
+        padding-bottom: max(6rem, 20vh);
+        align-items: start;
+    }
+}
+
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    color: #0087ca;
+}
+
+.hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 5px;
+    bottom: 0;
+    left: 0;
+    background-color: #0087ca;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+    border-radius: 10px;
+}
+
+.hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+
+.inovasyon-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inovasyon-main--alt {
+    display: flex;
+    flex-direction: column;
+}
+
+.inovasyon-main--alt--bolumler {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    background-color: var(--white);
+    padding: 25px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.inovasyon-main--alt--bolumler--resim {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inovasyon-main--alt--bolumler--resim span {
+    font-size: 50px;
+}
+
+.inovasyon-main--alt--bolumler--resim label {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.inovasyon-main--alt--bolumler--icerik--text {
+    text-align: left;
+}
