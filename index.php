@@ -23,7 +23,8 @@
             <h1 class="text-accent">İnovasyon Kampı
             <span class="hover-underline-animation" style="font-size: 100px; color: #00ADB5;">ERAGON</span></h1>
             
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid excepturi recusandae quis officiis id nam eius explicabo quo vel suscipit, blanditiis, reprehenderit assumenda. Magni voluptatibus numquam est deserunt. A, reiciendis?</p>
+            <p>Eragon ekibi olarak düzenleyeceğimiz inovasyon ve girişimcilik kampının teması sanal gerçekliktir. Her geçen gün büyüyüp gelişen bu alanın gelecek yıllarda hayatımızda önemli bir yer edineceği şüphesiz bir gerçektir. <br>
+            Bu değişen ve gelişen dünyada meydana gelen yenilikler üstüne kurulu olan etkinliğimiz 3 gün sürecek olup etkinliğimizde ilham verici konuşmalar, yaratıcı caseler ve atölyeler yer alacaktık. Etkinliğimize katılacak sınırlı sayıda katılımcıdan biri olmak için başvuru formunu doldurabilirsiniz!</p>
         </div>
 
         <div>

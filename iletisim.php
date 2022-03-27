@@ -23,7 +23,7 @@
             <h1 class="text-accent">İletişim
             <span class="hover-underline-animation" style="font-size: 100px; color: #00ADB5;">ERAGON</span></h1>
             
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid excepturi recusandae quis officiis id nam eius explicabo quo vel suscipit, blanditiis, reprehenderit assumenda. Magni voluptatibus numquam est deserunt. A, reiciendis?</p>
+            <p>Eragon ekibi olarak bir çok sosyal medya platformunda bulunmakta ve hesaplarımızı aktif olarak kullanmaktayız. Bizlere aşağıda bulunan sosyal medya hesaplarımızdan veya mail adresimizden ulaşabilirsiniz!</p>
             
             <a href="#">Instagram</a><br>
             <a href="#">Facebook</a><br>

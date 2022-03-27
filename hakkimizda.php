@@ -32,7 +32,7 @@
                     <span class="hover-underline-animation" style="font-size: 100px; color: #00ADB5;">ERAGON</span>
                 </h1>
                 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut delectus obcaecati nulla repellendus voluptas tempora voluptatem molestias provident omnis sapiente. Libero dicta fugit aut modi! In laborum natus soluta fugiat?</p>
+                <p>Biz Gebze Bahçeşehir Lisesi öğrencilerinden oluşan Eragon ekibiyiz. Genel vizyonumuz, gelişen teknolojiyi takip ederek kendimizi geliştirip yeni kazanımlar edinmek ve bu kazanımlarımızı da öğrenmeye istekli yaşıtlarımıza, küçüklerimize ve büyüklerimize aktarmaktır. Şu ana kadar katılmış olduğumuz etkinlikler ve yarışmalarda bu hedefimizi destekler nitelikte adımlar atmış olup katılacağımız başka etkinliklerde de devam etmeyi istiyoruz. Eragon takımı olarak öncelikli hedefimiz şu ana kadar geldiğimiz noktanın çok daha ilerisine gitmek ve teknolojinin gelişmesine öncülük eden bir takım olarak insanlığa fayda sağlamaktır. Bu vizyonumuz gerçekleştirmek için de "Bahçejir Okulları İnovasyon ve Girişimcilik Kampı" adı altında bir etkinlik düzenlemekteyiz.</p>
         </div>
     </div>
 
