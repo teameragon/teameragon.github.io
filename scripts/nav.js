@@ -12,7 +12,7 @@ navToggle.addEventListener('click', () => {
 });
 
 
-fetch('./includes/nav.html')
+fetch('./includes/navbar.html')
 .then(res => res.text())
 .then(text => {
     let oldelem = document.querySelector("script#replace_with_navbar");
